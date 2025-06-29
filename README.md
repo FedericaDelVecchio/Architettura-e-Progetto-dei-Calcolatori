@@ -202,7 +202,7 @@ Temperatura: 23.48; Umidita': 55.25
 
 ---
 
-**Author**: Student Project  
+**Author**: Federica Del Vecchio
 **Institution**: Università degli Studi di Napoli "Federico II"  
 **Course**: Architettura e Progetto di Calcolatori  
 **Year**: 2024
